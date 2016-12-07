@@ -19,7 +19,7 @@
 ###データ検索方法
 本サイトでは、データセットのメタデータに含まれる情報をもとに、データセットを検索することができます。左側の検索ウィンドウから検索します。
 <http://opendata.arcgis.com/>
-![a](getOpenDataImg/serchMain.png)
+![](getOpenDataImg/ArcGISOpenDataSearch.gif)
 
 ###データセットの絞り込み
 データを特定の条件で絞り込むことができます。[データ]タブから絞り込みをかけたいデータのフィールドの▼を選択して条件を入力します。

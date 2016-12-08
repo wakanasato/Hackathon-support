@@ -1,8 +1,9 @@
 ## ArcGIS Open Data データ取得方法
 
+[ArcGIS Open Data](http://opendata.arcgis.com/) とは、政府・自治体や地域を超えてグローバルにオープンデータを一括検索できるサイトです。
+
 本データカタログサイトでは、マップを見ながら目的のデータセットを検索・プレビューし、必要な範囲の絞り込みを実施したうえで、データセットをダウンロードいただけます。
 ![](img/ArcGISOpeningPict.png)
-<http://opendata.arcgis.com/>
 
 #### ファイル形式
 

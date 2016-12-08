@@ -1,6 +1,6 @@
 ## ArcGIS Open Data データ取得方法
 本データカタログサイトでは、マップを見ながら目的のデータセットを検索・プレビューし、必要な範囲の絞り込みを実施したうえで、データセットをダウンロードいただけます。
-![](getOpenDataImg/ArcGISOpeningPict.png)
+![](img/ArcGISOpeningPict.png)
 <http://opendata.arcgis.com/>
 
 ####ファイル形式
@@ -19,13 +19,13 @@
  
 ###データ検索方法
 本サイトでは、データセットのメタデータに含まれる情報をもとに、データセットを検索することができます。左側の検索ウィンドウから検索します。
-![](getOpenDataImg/ArcGISOpenDataSearch.gif)
+![](img/ArcGISOpenDataSearch.gif)
 <http://opendata.arcgis.com/>
 
 ###データセットの絞り込み
-データを特定の条件で絞り込むことができます。[データ]タブから絞り込みをかけたいデータのフィールドの![](getOpenDataImg/filter.png)を選択して条件を入力します。
-![](getOpenDataImg/inputFilterFactor.png)
+データを特定の条件で絞り込むことができます。[データ]タブから絞り込みをかけたいデータのフィールドの![](img/filter.png)を選択して条件を入力します。
+![](img/inputFilterFactor.png)
 
 ###データセットのダウンロード
 特定の条件で絞り込んだデータのみをダウンロードすることができます。[データのダウンロード]ボタンから行います。絞ったデータでダウンロードしたい場合は、[フィルター処理されたデータセット]以下の提供ファイル形式名を選択します。
-![](getOpenDataImg/opendataDL.png)
+![](img/opendataDL.png)
